@@ -12,15 +12,15 @@
         },
         "landcover-6": {
             "type": "geojson",
-            "data": "resolution-6-simplified.geojson"
+            "data": "https://wipfli.github.io/h3-landcover/resolution-6-simplified.geojson"
         },
         "landcover-7": {
             "type": "geojson",
-            "data": "resolution-7-simplified.geojson"
+            "data": "https://wipfli.github.io/h3-landcover/resolution-7-simplified.geojson"
         },
         "landcover-8": {
             "type": "geojson",
-            "data": "resolution-8-simplified.geojson"
+            "data": "https://wipfli.github.io/h3-landcover/resolution-8-simplified.geojson"
         }
     },
     "glyphs": "https://wipfli.github.io/swiss-map/font/{fontstack}/{range}.pbf",

@@ -1,11 +1,13 @@
 # h3-landcover
 Make low resolution landcover vector tiles from high resolution raster landcover data with h3 downsampling
 
-```
-python3 continuous.py
-python3 analyze.py
-./filter.sh
-```
+## Demo
+
+https://wipfli.github.io/h3-landcover/
+
+<a href="https://wipfli.github.io/h3-landcover/">
+<img src="screenshot.png" width=650/>
+</a>
 
 ## Design
 
